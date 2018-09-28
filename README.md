@@ -2,6 +2,8 @@
 
 this project is VueTest.
 
+http://aworksa.cafe24.com/aworksa/vue/index.html#/
+
 ## Project setup
 ```
 npm install
